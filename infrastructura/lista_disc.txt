@@ -1,0 +1,4 @@
+1,Analiza,Berinde Stefan
+2,Algebra,Modoi
+3,Logica,Pop
+7,ASC,Vance

@@ -1,0 +1,5 @@
+1,1,Chef Scarlatescu,1,Analiza,Berinde Stefan,9.95
+2,1,Chef Scarlatescu,2,Algebra,Modoi,5.0
+7,2,Chef Dumitrescu,7,ASC,Vance,1.35
+3,3,Messi,1,Analiza,Berinde Stefan,7.474
+4,1,Chef Scarlatescu,1,Analiza,Berinde Stefan,1.0

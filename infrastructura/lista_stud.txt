@@ -1,0 +1,7 @@
+1,Chef Scarlatescu
+2,Chef Dumitrescu
+3,Mesii mai bun
+9,Ronaldo
+6,Turturica Dorin
+7,Cozar Sebastian
+8,Ursu

@@ -1,0 +1,3 @@
+1,Analiza,Berinde
+2,Algebra,Mo2
+3,Logica,Pop
